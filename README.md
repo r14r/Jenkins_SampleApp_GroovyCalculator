@@ -1,1 +1,1 @@
-# jenkins_SampleApp_GroovyCalculator
+# SampleApp: Groovy Scripts in Jenkins
